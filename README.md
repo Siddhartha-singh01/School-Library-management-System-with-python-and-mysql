@@ -66,13 +66,7 @@ Optional       Enhancements	Pandas, Matplotlib (for analytics), Tkinter (for GUI
 
 ☁️ Cloud Database Integration — enable multi-branch access and remote backup.
 
-🧠 Project Structure
-│
-├── main.py                # Entry point of the app
-├── db.py                  # Handles all DB connections and queries
-├── book.py                # Book management logic
-├── student.py             # Student management logic
-├── issue_return.py        # Issue/return transactions
-├── config.py              # Database configuration
-├── library_db.sql         # MySQL schema and initial data
-└── README.md              # Documentation
+
+
+
+
