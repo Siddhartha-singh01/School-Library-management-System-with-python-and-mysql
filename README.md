@@ -64,7 +64,7 @@ Optional       Enhancements	Pandas, Matplotlib (for analytics), Tkinter (for GUI
 
 🧮 Barcode Scanning — speed up book issue/return processes.
 
-☁️ Cloud Database Integration — enable multi-branch access and remote backup.
+☁️ Cloud Database Integration — enable multi-branch access and remote backup . 
 
 
 
