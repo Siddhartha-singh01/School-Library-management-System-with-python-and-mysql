@@ -6,7 +6,7 @@ It provides a smooth console-based workflow (and can easily be extended to a GUI
 🚀 Features
 📘 Book Management
 
-Add new books with details like title, author, publisher, ISBN, and quantity.
+Add new books with details like title, author, publisher, ISBN, and quantity. 
 
 Update or delete existing book records.
 
@@ -64,7 +64,7 @@ Optional       Enhancements	Pandas, Matplotlib (for analytics), Tkinter (for GUI
 
 🧮 Barcode Scanning — speed up book issue/return processes.
 
-☁️ Cloud Database Integration — enable multi-branch access and remote backup . 
+☁️ Cloud Database Integration — enable multi-branch access and remote backup .   
 
 
 
