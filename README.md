@@ -12,7 +12,7 @@ Update or delete existing book records.
 
 Search for books by title, author, or category.
 
-Maintain stock count for issued and returned books.
+Maintain stock count for issued and returned books.  
 
 🧑‍🎓 Student Management
 
