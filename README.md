@@ -17,7 +17,7 @@ Maintain stock count for issued and returned books.
 🧑‍🎓 Student Management
 
 Add new students with unique IDs or roll numbers.
-
+    
 Update student information (class, section, contact, etc.).
 
 View student borrowing history and outstanding books.
